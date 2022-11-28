@@ -1,5 +1,5 @@
 {
-	"name": "2-3videopage",
+	"name": "infinity-reCAPTCHA",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.18.2"
